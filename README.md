@@ -13,6 +13,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
+## Image Detected
+ <img src="image/4.jpg" alt="Tumor Image 3" style="border-radius: 15px; margin: 10px; width:200px;" />
+<img src="image/5.jpg" alt="Tumor Image 3" style="border-radius: 15px; margin: 10px; width:200px;" />
+<img src="image/6.jpg" alt="Tumor Image 3" style="border-radius: 15px; margin: 10px; width:200px;" />
+<img src="image/7.jpg" alt="Tumor Image 3" style="border-radius: 15px; margin: 10px; width:200px;" />
+
 ## install Package
 ```
 pip install -r requirements.txt
