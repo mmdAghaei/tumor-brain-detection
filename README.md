@@ -14,10 +14,10 @@
 </div>
 
 ## Image Detected
- <img src="image/4.jpg" alt="Tumor Image 3" style="border-radius: 15px; margin: 10px; width:200px;" />
-<img src="image/5.jpg" alt="Tumor Image 3" style="border-radius: 15px; margin: 10px; width:200px;" />
-<img src="image/6.jpg" alt="Tumor Image 3" style="border-radius: 15px; margin: 10px; width:200px;" />
-<img src="image/7.jpg" alt="Tumor Image 3" style="border-radius: 15px; margin: 10px; width:200px;" />
+ <img src="image/4.jpg" alt="Tumor Image 3" style="border-radius: 15px; margin: 10px; width:40%;" />
+<img src="image/5.jpg" alt="Tumor Image 3" style="border-radius: 15px; margin: 10px; width:40%;" />
+<img src="image/6.jpg" alt="Tumor Image 3" style="border-radius: 15px; margin: 10px; width:40%;" />
+<img src="image/7.jpg" alt="Tumor Image 3" style="border-radius: 15px; margin: 10px; width:40%;" />
 
 ## install Package
 ```
